@@ -7,5 +7,9 @@
   <body>
     <h1>DUAR MMMM!</h1>
     <p>AHAHAHHA</p>
+    <ul>
+      <li>satu</li>
+      <li>dua</li>
+    </ul>
   </body>
 </html>
